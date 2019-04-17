@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-13112012-110906";"";
+"TraceParts.ClassPath";"RICHCO:/F_RICHCO/RICHCO.010/RICHCO.010.010/10-13112012-110906";"";
+"TraceParts.InstanceId";"10-13112012-1109066NUDUHHT5IE45QS7EFR4CTRF1";"";
+"REFERENCE";"RTSN-M3-15-6-1";"";
+"DESIGN";"RTSN - Round Threaded Standoff";"";
+"SUPPLIER";"RICHCO";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"RTSN - RTSN - Round Threaded Standoff";"";
+"TraceParts.PartVersion";"1.1.2";"";

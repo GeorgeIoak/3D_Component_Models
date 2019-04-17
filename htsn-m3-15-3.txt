@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-13112012-110833";"";
+"TraceParts.ClassPath";"RICHCO:/F_RICHCO/10-13112012-110833";"";
+"TraceParts.InstanceId";"10-13112012-1108332JM3L6ORJI4FVCW3JK8S8TW6N";"";
+"REFERENCE";"HTSN-M3-15-3";"";
+"DESIGN";"HTSN-3 - Hex Threaded Standoff Male/Male";"";
+"SUPPLIER";"RICHCO";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"HTSN - HTSN-3- Hex Threaded Standoff Male/Male";"";
+"TraceParts.PartVersion";"1.0.5";"";

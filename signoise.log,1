@@ -1,0 +1,4 @@
+INFO: Loaded existing interconnect file 'C:\Users\George\Documents\Altium Libraries\Downloads\3D\interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+WARNING: Using Default Impedance and Default PropVelocity for segment on layer BOTTOM
+WARNING: Using Default Impedance and Default PropVelocity for segment on layer TOP

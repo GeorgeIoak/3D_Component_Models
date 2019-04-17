@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22112012-118434";"";
+"TraceParts.ClassPath";"FCI:/ROOT/10-22112012-118434";"";
+"TraceParts.InstanceId";"10-22112012-118434CXJ6Z6GEUE4R45GTH5K0LSOKM";"";
+"REFERENCE";"HFW6R2STE1LF";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"SUPPLIER";"FCI";"";
+"DESIGN";"FPC/FFC HFW-R series, 6 Pos, Upper Side Contact, Side Entry Surface Mount Non-ZIF Connector, 1 mm (0.039 in.), Lead Free";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartTitle";"FPC/FFC HFW-R series, 6 Pos, Upper Side Contact, Side Entry Surface Mount Non-ZIF Connector, 1 mm (0.039 in.), Lead Free";"";
+"TraceParts.PartVersion";"1.0.0";"";

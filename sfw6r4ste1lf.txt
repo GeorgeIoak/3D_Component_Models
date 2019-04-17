@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-21112012-104811";"";
+"TraceParts.ClassPath";"FCI:/ROOT/10-21112012-104811";"";
+"TraceParts.InstanceId";"10-21112012-1048113U2MO7EFZGQ2C58UB8GB8LAFO";"";
+"REFERENCE";"SFW6R4STE1LF";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"SUPPLIER";"FCI";"";
+"DESIGN";"FPC/FFC SFW-R series, 6 Pos, Upper Side Contact, Side Entry Surface Mount ZIF Connector, 1 mm (0.039 in.), Lead Free, with Cable Lock";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartTitle";"FPC/FFC SFW-R series, 6 Pos, Upper Side Contact, Side Entry Surface Mount ZIF Connector, 1 mm (0.039 in.), Lead Free, with Cable Lock";"";
+"TraceParts.PartVersion";"1.0.0";"";

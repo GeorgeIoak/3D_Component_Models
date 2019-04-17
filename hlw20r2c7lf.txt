@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22112012-124642";"";
+"TraceParts.ClassPath";"FCI:/F_FCI/10-22112012-124642";"";
+"TraceParts.InstanceId";"10-22112012-124642645XNLR0DQUUS0C5ALP311C5X";"";
+"REFERENCE";"HLW20R2C7LF";"";
+"DESIGN";"FPC/FFC HLW-R series, 20 Pos, Side Entry Non-ZIF Connector, 1 mm (0.039 in.), Kinked Terminal";"";
+"SUPPLIER";"FCI";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"FPC/FFC HLW-R series, 20 Pos, Side Entry Non-ZIF Connector, 1 mm (0.039 in.), Kinked Terminal";"";
+"TraceParts.PartVersion";"1.0.0";"";

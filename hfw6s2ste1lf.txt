@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22112012-118793";"";
+"TraceParts.ClassPath";"FCI:/F_FCI/10-22112012-118793";"";
+"TraceParts.InstanceId";"10-22112012-1187939KBW4JGXG0EO9S9QJ0595MZW8";"";
+"REFERENCE";"HFW6S2STE1LF";"";
+"DESIGN";"FPC/FFC HFW Straight series, 6 Pos 1 mm (0.039 in.) Pitch Connector, Top Entry Surface Mount, Non-ZIF";"";
+"SUPPLIER";"FCI";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"FPC/FFC HFW Straight series, 6 Pos 1 mm (0.039 in.) Pitch Connector, Top Entry Surface Mount, Non-ZIF";"";
+"TraceParts.PartVersion";"1.0.0";"";

@@ -1,0 +1,4 @@
+﻿"Symbol";"Value";"Unit";
+"DESIGN";"USB Type A, Receptacle, Standard, Through Hole, 30u GXT Contact, 4 Pins, Shield with Tin Plating, 1.57 mm PCB, White HSG, Tube packing";"";
+"REFERENCE";"875200010BLF";"";
+"SUPPLIER";"FCI";"";

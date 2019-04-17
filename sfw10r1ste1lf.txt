@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-23112012-046293";"";
+"TraceParts.ClassPath";"FCI:/F_FCI/10-23112012-046293";"";
+"TraceParts.InstanceId";"10-23112012-0462937YV6RFVT26L5155233ECGNX74";"";
+"REFERENCE";"SFW10R1STE1LF";"";
+"DESIGN";"FPC/FFC SFW-R series, 10 Pos, Down Side Contact, Side Entry Surface Mount ZIF Connector, 1 mm (0.039 in.), Lead Free";"";
+"SUPPLIER";"FCI";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartVersion";"1.0.0";"";
